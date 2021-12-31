@@ -1,12 +1,31 @@
 # melody-github-io
-My first Basic Static Web Page that has basic structure for the music-player layout for both desktop-mobile resolution.
 
 
-Purpose:
-A Static page for layout finalisation, that can be upgraded later on with the help of JavaScript.
+|***Desktop Version***|
+*** Head Tag ***
+Title -
+Link -
+Link - 
+Link -
+Link - 
 
-Structuring
+*** Body Tag ***
 
-Header--
+** Section(Header) **
 
---Navbar 
+~ Support Bar
+- Twitter Icon
+- Instagram Icon
+- Facebook Icon
+- Youtube Icon
+- Github Icon
+
+~ App Name && Profile Bar
+-- Application Icon/Name
+-- Upgrade to Premium Button
+-- User Profile Image 
+
+~
+
+** Section(Main) **
+** Section(Footer) **
